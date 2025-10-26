@@ -4,7 +4,7 @@
 
 This project explores monitoring and observability in Kubernetes using Prometheus and Grafana.
 The work is based on the k8s-kind-voting-app
- repository, where I deployed the full voting app stack and integrated it with Prometheus metrics and Grafana dashboards.
+ repository(https://github.com/LondheShubham153/k8s-kind-voting-app.git), where I deployed the full voting app stack and integrated it with Prometheus metrics and Grafana dashboards.
 
 ⚙️ Cluster Setup
 
